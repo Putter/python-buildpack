@@ -1,6 +1,6 @@
-gunicorn
 djangorestframework
 django==2.0.7
 markdown
 coreapi
 django-jet
+gunicorn
