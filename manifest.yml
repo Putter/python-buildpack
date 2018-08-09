@@ -3,6 +3,7 @@ language: python
 default_versions:
 - name: python
   version: 3.4.x
+dependency_deprecation_dates:
 - version_line: 3.4.x
   name: python
   date: 2019-03-16
